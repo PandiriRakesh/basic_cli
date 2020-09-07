@@ -21,7 +21,5 @@ ___this is bold and italic___
 1. HTML5
 2. CSS3
    1. SELECTORS
-  
-![image]()
 
 [Google](http://www.google.com)
